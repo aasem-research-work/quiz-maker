@@ -1,0 +1,80 @@
+{
+  "quiz": {
+    "code": "QZ001",
+    "title": "Quiz Title",
+    "duration": "30 minutes",
+    "instruction": "Read each question carefully and select the correct answer.",
+    "passing_marks": 70,
+    "total_marks": 100,
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false",
+        "question": "Is the sky blue?",
+        "answer": true,
+        "media": {
+          "type": "image",
+          "url": "https://example.com/sky.jpg"
+        }
+      },
+      {
+        "number": 2,
+        "type": "multiple_choice",
+        "question": "What is the capital of France?",
+        "choices": ["London", "Paris", "Berlin", "Madrid"],
+        "answer": 1,
+        "media": {
+          "type": "video",
+          "url": "https://example.com/france.mp4"
+        }
+      },
+      {
+        "number": 3,
+        "type": "fill_in_blanks",
+        "question": "The sun ___ in the east.",
+        "answer": "rises",
+        "media": null
+      },
+      {
+        "number": 4,
+        "type": "fill_in_blanks_with_hint",
+        "question": "The largest planet in our solar system is ___ (Hint: Starts with 'J')",
+        "answer": "Jupiter",
+        "media": {
+          "type": "image",
+          "url": "https://example.com/jupiter.jpg"
+        }
+      },
+      {
+        "number": 5,
+        "type": "true_false",
+        "question": "Is the Earth flat?",
+        "answer": false,
+        "media": null
+      },
+      {
+        "number": 6,
+        "type": "multiple_choice",
+        "question": "Who painted the Mona Lisa?",
+        "choices": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "answer": 0,
+        "media": null
+      },
+      {
+        "number": 7,
+        "type": "fill_in_blanks",
+        "question": "Water boils at ___ degrees Celsius.",
+        "answer": "100",
+        "media": null
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "question": "What is the chemical symbol for gold?",
+        "choices": ["Au", "Ag", "Fe", "Cu"],
+        "answer": 0,
+        "media": null
+      }
+    ]
+  }
+}
