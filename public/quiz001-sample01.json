@@ -11,7 +11,8 @@
         "number": 1,
         "type": "true_false",
         "question": "Is the sky blue?",
-        "answer": true,
+        "choices": ["1. True", "2. False"],
+        "answer": 0,
         "media": {
           "type": "image",
           "url": "https://example.com/sky.jpg"
@@ -21,7 +22,7 @@
         "number": 2,
         "type": "multiple_choice",
         "question": "What is the capital of France?",
-        "choices": ["London", "Paris", "Berlin", "Madrid"],
+        "choices": ["1. London", "2. Paris", "3. Berlin", "4. Madrid"],
         "answer": 1,
         "media": {
           "type": "video",
@@ -49,14 +50,15 @@
         "number": 5,
         "type": "true_false",
         "question": "Is the Earth flat?",
-        "answer": false,
+        "choices": ["1. True", "2. False"],
+        "answer": 1,
         "media": null
       },
       {
         "number": 6,
         "type": "multiple_choice",
         "question": "Who painted the Mona Lisa?",
-        "choices": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "choices": ["1. Leonardo da Vinci", "2. Pablo Picasso", "3. Vincent van Gogh", "4. Michelangelo"],
         "answer": 0,
         "media": null
       },
@@ -71,7 +73,7 @@
         "number": 8,
         "type": "multiple_choice",
         "question": "What is the chemical symbol for gold?",
-        "choices": ["Au", "Ag", "Fe", "Cu"],
+        "choices": ["1. Au", "2. Ag", "3. Fe", "4. Cu"],
         "answer": 0,
         "media": null
       }
