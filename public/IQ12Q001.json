@@ -1,0 +1,172 @@
+{
+  "quiz": {
+    "code": "IQ12Q001",
+    "title": "IQ Test for 12-Year-Olds",
+    "duration": "30 minutes",
+    "instruction": "Read each question carefully and select the best answer.",
+    "passing_marks": 50,
+    "total_marks": 100,
+    "questions": [
+      {
+        "number": 1,
+        "type": "multiple_choice",
+        "question": "Which number should come next in the pattern? 2, 4, 6, 8, ____",
+        "choices": ["1. 9", "2. 10", "3. 12", "4. 14"],
+        "answer": 3,
+        "media": null
+      },
+      {
+        "number": 2,
+        "type": "multiple_choice",
+        "question": "If all cats are mammals, and all mammals have four legs, what can you conclude about cats?",
+        "choices": ["1. Cats have fur.", "2. Cats are warm-blooded.", "3. Cats have four legs.", "4. Cats are carnivores."],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 3,
+        "type": "multiple_choice",
+        "question": "Which word does NOT belong with the others?",
+        "choices": ["1. Apple", "2. Banana", "3. Orange", "4. Grape"],
+        "answer": 1,
+        "media": null
+      },
+      {
+        "number": 4,
+        "type": "multiple_choice",
+        "question": "If a triangle has three sides of equal length, what type of triangle is it?",
+        "choices": ["1. Scalene", "2. Isosceles", "3. Equilateral", "4. Right"],
+        "answer": 3,
+        "media": null
+      },
+      {
+        "number": 5,
+        "type": "multiple_choice",
+        "question": "Which shape is symmetrical?",
+        "choices": ["1. Triangle", "2. Circle", "3. Rectangle", "4. Irregular"],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 6,
+        "type": "multiple_choice",
+        "question": "Which number is the smallest?",
+        "choices": ["1. -5", "2. -1", "3. 0", "4. 1"],
+        "answer": 0,
+        "media": null
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "question": "If the day after tomorrow is Sunday, what day is today?",
+        "choices": ["1. Monday", "2. Tuesday", "3. Wednesday", "4. Saturday"],
+        "answer": 1,
+        "media": null
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "question": "Which number comes next in the sequence? 1, 3, 6, 10, ____",
+        "choices": ["1. 12", "2. 13", "3. 15", "4. 18"],
+        "answer": 3,
+        "media": null
+      },
+      {
+        "number": 9,
+        "type": "multiple_choice",
+        "question": "If a square has an area of 16 square units, what is the length of one side?",
+        "choices": ["1. 2 units", "2. 4 units", "3. 8 units", "4. 16 units"],
+        "answer": 1,
+        "media": null
+      },
+      {
+        "number": 10,
+        "type": "multiple_choice",
+        "question": "Which number is missing in the sequence? 3, 6, 9, ___, 15",
+        "choices": ["1. 10", "2. 11", "3. 12", "4. 13"],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 11,
+        "type": "multiple_choice",
+        "question": "Which word is spelled correctly?",
+        "choices": ["1. Experiance", "2. Percieve", "3. Recieve", "4. Achieve"],
+        "answer": 3,
+        "media": null
+      },
+      {
+        "number": 12,
+        "type": "multiple_choice",
+        "question": "If you rearrange the letters of the word 'ACT' to form a meaningful English word, which word would you get?",
+        "choices": ["1. ACT", "2. CAT", "3. TAC", "4. RAT"],
+        "answer": 1,
+        "media": null
+      },
+      {
+        "number": 13,
+        "type": "multiple_choice",
+        "question": "If you are running a race and you overtake the person in second place, which position are you in?",
+        "choices": ["1. First place", "2. Second place", "3. Third place", "4. Cannot be determined"],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 14,
+        "type": "multiple_choice",
+        "question": "What is the next number in the series? 1, 4, 9, 16, ____",
+        "choices": ["1. 20", "2. 25", "3. 30", "4. 35"],
+        "answer": 1,
+        "media": null
+      },
+      {
+        "number": 15,
+        "type": "multiple_choice",
+        "question": "If all clocks in a room are showing the correct time, how many times will the clock hands overlap in a 24-hour period?",
+        "choices": ["1. 12", "2. 22", "3. 24", "4. 48"],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 16,
+        "type": "multiple_choice",
+        "question": "What is the missing letter in the sequence? A, C, E, ___, I",
+        "choices": ["1. F", "2. G", "3. H", "4. D"],
+        "answer": 3,
+        "media": null
+      },
+      {
+        "number": 17,
+        "type": "multiple_choice",
+        "question": "What is the result of 5 + 3 * 2?",
+        "choices": ["1. 10", "2. 11", "3. 13", "4. 16"],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 18,
+        "type": "multiple_choice",
+        "question": "Which of the following shapes does NOT belong with the others?",
+        "choices": ["1. Circle", "2. Triangle", "3. Square", "4. Rectangle"],
+        "answer": 0,
+        "media": null
+      },
+      {
+        "number": 19,
+        "type": "multiple_choice",
+        "question": "What is the largest prime number less than 20?",
+        "choices": ["1. 15", "2. 17", "3. 19", "4. 20"],
+        "answer": 2,
+        "media": null
+      },
+      {
+        "number": 20,
+        "type": "multiple_choice",
+        "question": "What is the next shape in the sequence? Circle, Square, Triangle, Circle, Square, ____",
+        "choices": ["1. Pentagon", "2. Hexagon", "3. Triangle", "4. Circle"],
+        "answer": 0,
+        "media": null
+      }
+    ]
+  }
+}
